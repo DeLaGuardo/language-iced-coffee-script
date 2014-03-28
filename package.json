@@ -1,8 +1,14 @@
 {
   "name": "language-iced-coffee-script",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "repository": "https://github.com/atom/language-iced-coffee-script",
+  "description": "IcedCoffeeScript language support in Atom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atom/language-iced-coffee-script",
+  },
+  "bugs": {
+    "url": "https://github.com/atom/language-iced-coffee-script/issues"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
