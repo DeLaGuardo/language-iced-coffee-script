@@ -4,7 +4,7 @@
   "description": "IcedCoffeeScript language support in Atom",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-iced-coffee-script",
+    "url": "https://github.com/atom/language-iced-coffee-script"
   },
   "bugs": {
     "url": "https://github.com/atom/language-iced-coffee-script/issues"
